@@ -15,18 +15,14 @@
 <hr>
 
 ## Assigment Brief
-We also filled out an Assignment Brief, to inform ourselves, what exactly we needed to do.
-
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/e94df38d-de39-426d-aeb9-ac5cbe9662fc)
-
 
 <hr>
 
 ## Goals
 
-We decided that we wanted to set ourselves 2 smart goals, which we want to fulfill. 
 
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/e814c275-0270-4dfc-8749-dbe8ad028c6e)
+
+![image]()
 
 
 <hr>
