@@ -10,7 +10,7 @@
 
 ## Informing if we can do this project 
 
-<ul><li> </li></ul>
+<ul><li> We discussed our skills and we came to the conclusion that Leons doing the game and Diego is doing website. </li></ul>
 
 <hr>
 
