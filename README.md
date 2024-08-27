@@ -1,1 +1,1 @@
-<hr> ##US <hr>
+<hr> US <hr>
