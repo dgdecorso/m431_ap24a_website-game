@@ -25,7 +25,8 @@ n/a
 A set of questions
 An online quiz
 Key Dates*
-23.08.2022 - Submit assignment brief
+<p>23.08.2022 - Submit assignment brief<7p>
+
 <p>25.05.2022 - Completed Unit testing</p>
 <p></p>26.08.2022 - Acceptance test by TBZ</p>
 <p></p>29.08.2022 - Launch quiz</p>
