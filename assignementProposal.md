@@ -14,8 +14,9 @@ A Simple but effective game
 
 ## Assignment Organisation*
 Assignment lead - Diego G. De Corso, Leon Wulff
-Implementor - Diego G. De Corso, Leon Wulff
-User tester - /
+<p>Implementor - Diego G. De Corso, Leon Wulff
+User tester - /</p>
+
 
 ## Assignment Budget
 n/a
