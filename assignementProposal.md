@@ -1,6 +1,6 @@
-#Assignment Name*
+#Assignment Name
 WEBSITE GAME
-
+<hr>
 Assignment Summary*
 A simple Jump and Run game and a website to download the game.
 
