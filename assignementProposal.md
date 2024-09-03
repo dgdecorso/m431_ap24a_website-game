@@ -14,8 +14,8 @@ Having at least 10 downloads in 1 Month
 
 ## Assignment Organisation*
 Assignment lead - Diego G. De Corso, Leon Wulff
-<p>Implementor - Diego G. De Corso, Leon Wulff
-User tester - /</p>
+<p>Implementor - Diego G. De Corso, Leon Wulff</p>
+<p>User tester - /</p>
 
 
 ## Assignment Budget
@@ -26,9 +26,9 @@ A set of questions
 An online quiz
 Key Dates*
 23.08.2022 - Submit assignment brief
-25.05.2022 - Completed Unit testing
-26.08.2022 - Acceptance test by TBZ
-29.08.2022 - Launch quiz
+<p>25.05.2022 - Completed Unit testing</p>
+<p></p>26.08.2022 - Acceptance test by TBZ</p>
+<p></p>29.08.2022 - Launch quiz</p>
 
 ## Acceptance Criteria
 No critical/blocking defects
