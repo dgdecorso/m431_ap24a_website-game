@@ -1,6 +1,6 @@
 # Informing
 
-<hr>
+
 
 ## Collecting Information 
 
