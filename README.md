@@ -1,8 +1,8 @@
 <hr> US <hr>
 <hr>Documentation<hr>
-[INFORMING]
-[PLANING]
-[DECIDE]
-[REALIZE]
-[CONTROL]
-[ASSES]
+[INFORMING]/n
+[PLANING]/n
+[DECIDE]/n
+[REALIZE]/n
+[CONTROL]/n
+[ASSES]/n
