@@ -29,7 +29,7 @@ Key Dates*
 
 <p>25.05.2022 - Completed Unit testing</p>
 <p></p>26.08.2022 - Acceptance test by TBZ</p>
-<p></p>29.08.2022 - Launch quiz</p>
+<p></p>29.08.2022 - Launch Game + Website </p>
 
 ## Acceptance Criteria
 No critical/blocking defects
