@@ -4,5 +4,5 @@
 <p>[PLANING]</p>
 <p>[DECIDE]</p>
 <p>[REALIZE]</p>
-<p>CONTROL]</p>
+<p>[CONTROL]</p>
 <P>[ASSES]</p>
