@@ -39,10 +39,10 @@ Sign-off by User tester
 
 
 ## Milestones*
-M01: Information gathering complete
-M02: Implementation complete
-M03: Sign-off by User tester
-M04: Go-live
+M01: 
+M02: Have the Plan with look of the game
+M03: Having a game with the Website
+M04: Launch the website
 
 
 
