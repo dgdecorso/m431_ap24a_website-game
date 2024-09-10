@@ -1,4 +1,7 @@
 <hr> US <hr>
+
+
+
 <hr>Documentation<hr>
 <p>[INFORMING](https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/INFORMING.md)</p>
 <p>[PLANING]</p>
