@@ -15,7 +15,7 @@
 <hr>
 
 ## Assignment 
-[Assignmet]
+[Assignmet](https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/assignementProposal.md)
 
 <hr>
 
