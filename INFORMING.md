@@ -4,13 +4,13 @@
 
 ## Collecting Information 
 
-<ul><li> at first we had to find a partner and find a project that we wanted to do, we decided to make a game and a website to download it.</li></ul>
+<ul><li> at first we had to find a partner, we wanted to do a project with persons but we decide to do it with 2two persons because its easier to plan the project. We discussed our ideas and did put them together and we found a project that we both liked, we decided to make a game and a website to download it.</li></ul>
 
 <hr>
 
 ## Informing if we can do this project 
 
-<ul><li> We discussed our skills and we came to the conclusion that Leons doing the game and Diego is doing website. </li></ul>
+<ul><li> We discussed our skills in Programming and we saw the Diego knew a little bit of HTML and Leon had expirience in programming games with godot. We came to the conclusion that Diego would do the Website and Leon is going to do the Game with all the Sprites. </li></ul>
 
 <hr>
 
