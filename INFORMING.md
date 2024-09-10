@@ -14,7 +14,8 @@
 
 <hr>
 
-## Assigment Brief
+## Assignment 
+[Assignmet]
 
 <hr>
 
@@ -86,3 +87,4 @@ https://openai.com/chatgpt
 <br>
 
 [Back to Index](README.md)
+[Assignment]https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/assignementProposal.md
