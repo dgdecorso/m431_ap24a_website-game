@@ -1,8 +1,6 @@
 # Planing: 
 
-<ul><li> Our Teacher gave us a few documents to fill in, so we did that first. We had to fill out an Assignment Brief, where we documented our Goals and our milestones. On Excel, we did a Timetable. 
-On our Timetable, we noted which days we can work on our project and how long we can work on it. Together we also had to do a Task list. We discussed long about who was going to do which task, but in the end, we came to a very fair decision. 
-Fabiano would do most of the programming, while Leona would do most of the Documentation. Besides these tasks, we also had to do a Table, where we needed to write down what we should do, in the worst-case scenario. We also tried not to make our goals too big, because we didn't want to not be able to achieve them and put ourselves under stress. </li></ul>
+<ul><li> The teacher gave us the task, to plan our projecrt.<</li></ul>
 
 <hr>
 
@@ -34,8 +32,10 @@ We have discussed and decided on a few Milesotnes.
 
 ## Resource plan 
 How much time we have at the same time:
-![Screenshot (29)](https://github.com/user-attachments/assets/65c26e77-29cf-4d57-a51b-60b1704536d2)
 
+
+
+![Screenshot (32)](https://github.com/user-attachments/assets/39e88596-24ae-4d0a-bac9-46f394f95b9d)
 <hr>
 
 ## Tasklist
