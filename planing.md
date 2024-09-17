@@ -1,12 +1,10 @@
 # Planing: 
 
-<ul><li> The teacher gave us the task, to plan our project, so that there are no problems. We decided to <</li></ul>
+<ul><li> The teacher gave us the task, to plan our project, so that there are no problems. We decided to split our time, leon works on the weekend while Diego works during the week. We had to do that so we dont get in trouble, during vacation or other day, where we cant work. We also had to do a task list, every task should show whos going to do it, the estimated time and the actual time. <</li></ul>
 
 <hr>
 
-## How was our Plan made
 
-<p> As soon as we decided what project we wanted to do, and we did the informing, we started planning. We first started to write down all the things that needed to be done (Documentation, Coding, Finalizing, Accepting, and all the other things.). After we got a list done with all the things we think are important, we started to arrange them into an order of "What is the most important" to "What is less important". In the end, we showed the list to our Teacher, and after he approved it we started working.</p>
 
 <hr>
 
@@ -14,16 +12,6 @@
 We have discussed and decided on a few Milesotnes. 
 
 <ul>
-  <li> Coding Complete </li>
-  <p> Our Code should be done for the first time. Without any finalizing or any perfectionating.</p>
-  <li> Start Testing </li>
-  <p> We want to start testing very soon after our Code is done because we have many different testing protocols, and we also want some of our friends/family members to test it</p>
-  <li> Stop Testing </li>
-  <p> After we tested we also want to be done with it, because being done with the testing means being very close to being finished with our project.</p>
-  <li>Finalize the code and Docuemtation</li>
-  <p> After we stopped testing, it was time to finalize our code. Changing/adding some small details to our code. After we did this we can say that the Documentation is also nearly done. </p>
-  <li> Accepted </li>
-  <p> As soon as all the other Milestones are completed it is time that we accept the way our code and our documentation are. We need to accept the way it turned out.</p>
   
 </ul>
 
