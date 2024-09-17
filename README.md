@@ -1,5 +1,5 @@
-<hr> 
-## US 
+# US
+<hr>  
 <p>Diego</p>
 <p>Leon</p> 
 <hr>
