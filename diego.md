@@ -4,7 +4,7 @@
 
 ## Introduction
 
-<img src="https://noseryoung.ch/wp-content/uploads/2024/08/Diego_de_Corso_klein.jpg"  width="500" >
+<img src="https://noseryoung.ch/wp-content/uploads/2024/08/Diego_de_Corso_klein.jpg"  width="200" >
 
 Name: Diego Gabriele De Corso
 <br>
