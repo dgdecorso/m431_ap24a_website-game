@@ -4,7 +4,7 @@
 
 ## Introduction
 
-![Diego_de_Corso_klein](https://github.com/user-attachments/assets/30193292-8312-4c39-903e-97779b78d87d)
+<img src="https://noseryoung.ch/wp-content/uploads/2024/08/Diego_de_Corso_klein.jpg"  width="500" height="300">
 
 Name: Diego Gabriele De Corso
 <br>
