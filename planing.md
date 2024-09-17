@@ -36,7 +36,7 @@ Total: about 50h off school
 
 ## Tasklist
 We decided that we do our tasklist on Excel. 
-
+<p>https://noseryp-my.sharepoint.com/:x:/g/personal/diego_decorso_noseryoung_com/EbLXZbNqW-ZMg7AfkD2HoEQBgpu4myTZEBjx1YRSV7Lhmg?e=8vKLOg</p>
 
 <hr> 
 
