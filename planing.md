@@ -31,9 +31,7 @@ We have discussed and decided on a few Milesotnes.
 <hr>
 
 ## Resource plan 
-How much time we have at the same time:
-
-
+How much time we have:
 
 ![Screenshot (32)](https://github.com/user-attachments/assets/39e88596-24ae-4d0a-bac9-46f394f95b9d)
 <hr>
