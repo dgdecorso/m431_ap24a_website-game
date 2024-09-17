@@ -45,7 +45,7 @@ We decided that we do our tasklist on Excel.
 
 ## Managing our Time
 
-<p> Luckily, we had a great timetable. There were some days we couldn't work as we planned, but we decided to work on other days more. Also, we were lucky that Fabiano knew about going to Holidays soon enough, so we could include that into our time. Till now, we never had any complications with our Time management. Since we both made a task list in the beginning, we could plan everything smoothly. The only mistake we made was that we didn't plan time for including our Feedback in our Project. Needing to make some differences to your project also takes up time, which we forgot to include. Luckily we currently have Holidays and at work, we are sometimes allowed to work on our Project, so we do the updating there. </p>
+<p></p>
 
 <hr>
 
