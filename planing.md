@@ -1,6 +1,6 @@
 # Planing: 
 
-<ul><li> The teacher gave us the task, to plan our projecrt.<</li></ul>
+<ul><li> The teacher gave us the task, to plan our project, so that there are no problems. We decided to <</li></ul>
 
 <hr>
 
@@ -34,6 +34,8 @@ We have discussed and decided on a few Milesotnes.
 How much time we have:
 
 ![Screenshot (32)](https://github.com/user-attachments/assets/39e88596-24ae-4d0a-bac9-46f394f95b9d)
+
+Total: about 50h off school
 <hr>
 
 ## Tasklist
