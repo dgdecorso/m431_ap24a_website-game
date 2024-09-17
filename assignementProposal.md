@@ -39,10 +39,10 @@ Sign-off by User tester
 
 
 ## Milestones*
-M01: 
-M02: Have the Plan with look of the game
-M03: Having a game with the Website
-M04: Launch the website
+<p>M01:Have an Idea</p> 
+<p>M02: Have the Plan with look of the game</p> 
+<p>M03: Having a game with the Website</p> 
+<p>M04: Launch the website</p> 
 
 
 
