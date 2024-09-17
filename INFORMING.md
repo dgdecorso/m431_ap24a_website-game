@@ -20,8 +20,9 @@
 <hr>
 
 ## Goals
-
-
+Having at least 10 downloads in 1 Month
+<p>Functioning Download Button for everyone</p>
+<p>A Simple but fun game</p>
 
 ![image]()
 
