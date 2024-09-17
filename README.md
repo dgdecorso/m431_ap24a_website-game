@@ -1,6 +1,6 @@
-<hr> US <hr>
-Diego
-Leon
+<hr> US Diego
+Leon <hr>
+
 
 <br> 
 
