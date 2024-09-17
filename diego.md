@@ -3,7 +3,8 @@
 <hr>
 
 ## Introduction
-<img src="https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/a332b429-c83b-4d59-93c3-00db52ae6783" width="200">
+
+![Diego_de_Corso_klein](https://github.com/user-attachments/assets/30193292-8312-4c39-903e-97779b78d87d)
 
 Name: Diego Gabriele De Corso
 <br>
