@@ -24,18 +24,16 @@ Having at least 10 downloads in 1 Month
 <p>Functioning Download Button for everyone</p>
 <p>A Simple but fun game</p>
 
-![image]()
-
 
 <hr>
 
 ## Tools 
 
-#### VS Studio Code
-<p> We needed to download and install VS Code, so we could start programming our game. </p>
+#### Godot
+<p> We had to download godot, its simple but effective game engine. . </p>
 
 #### GitHub
-<p> GitHub is an app, where we can push and commit codes or open repositories. We need GitHub, so our Teacher can take a look at our project, and so we can save all our things.  </p>
+<p> We used GitHub, so our Teacher can take a look at our project. We also used it to save our Progress. </p>
 
 #### Google-/drive/docs
 <p> We had to use Google to do some research about our code, and we had to use Google Drive/Docs because we needed to fill out some documents our Teacher gave us. </p>
@@ -49,22 +47,20 @@ Having at least 10 downloads in 1 Month
 ## Resources 
 
 <ul>
-<li> Visual Studio Code </li>
+<li> Godot </li>
+<li> VS Studio Code</li>
 <li> Google </li>
 <li> YouTube </li>
 <li> Google Drive </li> 
 <li> Google Docs </li> 
 <li> GitHub </li> 
 <li> Microsoft excel </li>
-<li> ChatGPT </li>
 </ul>
 
 <hr>
 
 ## Sources
 
-#### Google 
-https://betterprogramming.pub/programming-tic-tac-toe-in-c-6ba4b6965ba3
 
 
 <hr> 
