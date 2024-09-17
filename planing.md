@@ -14,7 +14,7 @@ These are our milestones
 <p>M01:Have an Idea</p> 
 <p>M02: Have the Plan with look of the game</p> 
 <p>M03: Having a game with the Website</p> 
-<p>M04: Launch the website</p> 
+<p>M04: Launch the website with the game</p> 
 <p>M05: Present the Assignment</p>
 
 
