@@ -1,5 +1,7 @@
-<hr> US Diego
-Leon <hr>
+<hr> US 
+<p>Diego</p>
+<p>Leon</p> 
+<hr>
 
 
 <br> 
