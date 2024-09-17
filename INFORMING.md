@@ -65,21 +65,12 @@
 #### Google 
 https://betterprogramming.pub/programming-tic-tac-toe-in-c-6ba4b6965ba3
 
-#### YouTube
-https://www.youtube.com/watch?v=_889aB2D1KI  (We did not watch the entire Video, only the beginning)
-
-#### ChatGPT
-https://openai.com/chatgpt
 
 <hr> 
 
-## What did we ask ChstGPT? 
-<p> We asked ChatGPT very simple questions, we mostly asked him something when we couldn't figure out a problem. </p>
 
 <ul>
-<li> Where is the mistake in our code?</li>
-<li> Why isn't our code working? </li>
-<li> Why istn't our computer always thinking logical?</li>
+
 </ul>
 
 <hr>
