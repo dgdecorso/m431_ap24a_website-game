@@ -2,7 +2,7 @@
 [DIEGO](https://github.com/dgdecorso/m431_ap24a_website-game/edit/main/README.md)</p>
 [LEON](https://github.com/dgdecorso/m431_ap24a_website-game/edit/main/README.md)</p>
 
-<hr>  
+<br>  
 
 <hr>
 
