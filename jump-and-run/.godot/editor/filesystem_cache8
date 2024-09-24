@@ -1,19 +1,19 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1727185208
+::res://::1727186124
 character_body_2d.gd::GDScript::-1::1724769359::0::1::::<>CharacterBody2D<>::
 icon.svg::CompressedTexture2D::1095934194249264426::1724768904::1724768913::1::::<><>::
 il_570xN.4974376048_f3z0.png::CompressedTexture2D::4136471532156441631::1725974686::1725974686::1::::<><>::
 Kunst.jpg::CompressedTexture2D::2244591820081679397::1727184498::1727184466::1::::<><>::
-parcour.tscn::PackedScene::5586862162360578587::1727185167::0::1::::<><>::uid://bo71q4i72ix8h::::res://TBZ Projekt Godot/Sprite-00011.png<>uid://iqts3w0ox0d::::res://Screenshot 2024-09-24 152916.png
+parcour.tscn::PackedScene::5586862162360578587::1727185440::0::1::::<><>::uid://bo71q4i72ix8h::::res://TBZ Projekt Godot/Sprite-00011.png<>uid://iqts3w0ox0d::::res://Screenshot 2024-09-24 152916.png
 player.gd::GDScript::-1::1727181960::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::3421296355315526046::1727185167::0::1::::<><>::uid://b76kgyv7axiv1::::res://TBZ Projekt Godot/Char_Fall.png<>res://player.gd<>uid://dcernx58k8dxd::::res://TBZ Projekt Godot/Char_idle_Sheet.png<>uid://qduv803vhtgf::::res://TBZ Projekt Godot/Char_Jump.png<>uid://cng0w41vafdpe::::res://TBZ Projekt Godot/Char_roll.png<>uid://be1te2qhddpv8::::res://TBZ Projekt Godot/Char_Walk_sheet.png
+player.tscn::PackedScene::3421296355315526046::1727185513::0::1::::<><>::uid://b76kgyv7axiv1::::res://TBZ Projekt Godot/Char_Fall.png<>res://player.gd<>uid://dcernx58k8dxd::::res://TBZ Projekt Godot/Char_idle_Sheet.png<>uid://qduv803vhtgf::::res://TBZ Projekt Godot/Char_Jump.png<>uid://cng0w41vafdpe::::res://TBZ Projekt Godot/Char_roll.png<>uid://be1te2qhddpv8::::res://TBZ Projekt Godot/Char_Walk_sheet.png
 Screenshot 2024-09-10 162849.png::CompressedTexture2D::8022331786418009906::1725978584::1725978584::1::::<><>::
 Screenshot 2024-09-17 154101.png::CompressedTexture2D::7964781291595885573::1726580515::1726580515::1::::<><>::
 Screenshot 2024-09-17 163217.png::CompressedTexture2D::334202236120201183::1726583563::1726583563::1::::<><>::
 Screenshot 2024-09-24 151829.png::CompressedTexture2D::6475617035930413550::1727184514::1727184514::1::::<><>::
 Screenshot 2024-09-24 152916.png::CompressedTexture2D::17521413709326321::1727184572::1727184572::1::::<><>::
-world.tscn::PackedScene::7661932461690459561::1727185167::0::1::::<><>::uid://bo0kisj2g68ba::::res://player.tscn<>uid://by60c1svaakgl::::res://il_570xN.4974376048_f3z0.png<>uid://dlqg1wsllmaav::::res://Screenshot 2024-09-17 154101.png<>uid://cyi3p4ivcnd63::::res://Screenshot 2024-09-24 151829.png<>uid://cluk2k6itktxb::::res://parcour.tscn<>uid://e05i54x3ca4v::::res://Screenshot 2024-09-17 163217.png
-::res://TBZ Projekt Godot/::1726581515
+world.tscn::PackedScene::7661932461690459561::1727185440::0::1::::<><>::uid://bo0kisj2g68ba::::res://player.tscn<>uid://by60c1svaakgl::::res://il_570xN.4974376048_f3z0.png<>uid://dlqg1wsllmaav::::res://Screenshot 2024-09-17 154101.png<>uid://cyi3p4ivcnd63::::res://Screenshot 2024-09-24 151829.png<>uid://cluk2k6itktxb::::res://parcour.tscn<>uid://e05i54x3ca4v::::res://Screenshot 2024-09-17 163217.png
+::res://TBZ Projekt Godot/::1727185872
 Char_Fall.png::CompressedTexture2D::4697078569633228156::1725967433::1725967433::1::::<><>::
 Char_idle_Sheet.png::CompressedTexture2D::7308953909464620005::1725967433::1725967433::1::::<><>::
 Char_Jump.png::CompressedTexture2D::1130468246189246949::1725967433::1725967433::1::::<><>::
