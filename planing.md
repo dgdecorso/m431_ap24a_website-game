@@ -40,8 +40,6 @@ We decided that we do our tasklist on Excel.
 
 <hr> 
 
-## Gantt Chart 
-
 
 <hr> 
 
