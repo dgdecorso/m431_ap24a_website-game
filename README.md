@@ -1,6 +1,6 @@
 # US
-[DIEGO](https://github.com/dgdecorso/m431_ap24a_website-game/edit/main/diego.md)</p>
-[LEON](https://github.com/dgdecorso/m431_ap24a_website-game/edit/main/leon.md)</p>
+[DIEGO](https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/diego.md)</p>
+[LEON](https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/leon.md)</p>
 
 <br>  
 
