@@ -13,12 +13,16 @@ var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 var rolling_timer = null
 var is_rolling = false
 
+var start_position: Vector2 = Vector2(88, 539)
+
 func _ready():
 	rolling_timer = Timer.new()
 	rolling_timer.wait_time = 0.6
 	rolling_timer.one_shot = true
 	add_child(rolling_timer)
 	rolling_timer.connect("timeout", Callable(self, "_on_rolling_done"))
+	
+	start_position = position
 
 func _physics_process(delta):
 	
@@ -39,6 +43,9 @@ func _physics_process(delta):
 	handle_jump_and_gravity(delta)
 	
 	move_character(SPEED)
+	
+	if Input.is_action_just_pressed("restart"):
+		teleport_to_start()
 	
 	if Input.is_action_just_pressed("roll"):
 		start_rolling()
@@ -78,3 +85,6 @@ func _on_rolling_done():
 		animated_sprite_2d.animation = "Walk"
 	else:
 		animated_sprite_2d.animation = "Idle"
+
+func teleport_to_start():
+	position = start_position

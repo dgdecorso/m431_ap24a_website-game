@@ -109,7 +109,7 @@ position = Vector2(401.25, -183.875)
 shape = SubResource("RectangleShape2D_ixt1k")
 
 [node name="Player" parent="." instance=ExtResource("1_12ilm")]
-position = Vector2(77, 553)
+position = Vector2(88, 539)
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
 zoom = Vector2(5, 5)
@@ -127,8 +127,8 @@ texture = ExtResource("6_a3bgi")
 
 [node name="TextEdit" type="TextEdit" parent="Wining Box"]
 modulate = Color(1, 0, 0, 1)
-offset_left = 1038.0
-offset_right = 1230.0
-offset_bottom = 30.0
+offset_left = 1042.0
+offset_right = 1227.0
+offset_bottom = 33.0
 scale = Vector2(0.6, 0.6)
 text = "            You Won!!!"
