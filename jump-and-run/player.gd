@@ -44,7 +44,7 @@ func _physics_process(delta):
 	
 	move_character(SPEED)
 	
-	if Input.is_action_just_pressed("restart"):
+	if is_on_floor() and Input.is_action_just_pressed("restart"):
 		teleport_to_start()
 	
 	if Input.is_action_just_pressed("roll"):
