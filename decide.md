@@ -4,7 +4,8 @@
 
 ## Decisions 
 
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/fcbabdcf-f23a-43a4-bea3-9a9aaba31b0d)
+![Uploading Screenshot 2024-10-01 162106.png…]()
+
 
 <hr>
 
