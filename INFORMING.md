@@ -28,14 +28,14 @@ Having at least 10 downloads in 1 Month
 # <p>Must Have</p>
 
 <p><li>Physics on the Charakter</li></p>
-<p><li>Rolling Player<li></p>
-<p><li>Movement Implemented<li></p>
+<p><li>Rolling Player</li></p>
+<p><li>Movement Implemented</li></p>
 
 # <p>Nice/Better to Have</p>
 
-<p><li>Control Information<li></p>
-<p><li>"Cool" website design<li></p>
-<p><li>Restart Button<li></p>
+<p><li>Control Information</li></p>
+<p><li>"Cool" website design</li></p>
+<p><li>Restart Button</li></p>
 
 <hr>
 
