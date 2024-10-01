@@ -32,7 +32,7 @@
 
 # <p>Nice/Better to Have</p>
 
-<p><li>Control Information</li></p>
+<p><li>Controls Information</li></p>
 <p><li>"Cool" website design</li></p>
 <p><li>Restart Button</li></p>
 
@@ -41,7 +41,7 @@
 ## Tools 
 
 #### Godot
-<p> We had to download godot, its simple but effective game engine. . </p>
+<p> We had to download godot, its simple but effective game engine. </p>
 
 #### GitHub
 <p> We used GitHub, so our Teacher can take a look at our project. We also used it to save our Progress. </p>
