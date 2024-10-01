@@ -25,17 +25,17 @@ Having at least 10 downloads in 1 Month
 <p>A Simple but fun game</p>
 
 ## Non-Functional Requierements
-<p>Must Have</p>
+# <p>Must Have</p>
 
 <p><li>Physics on the Charakter</li></p>
-<p>Rolling Player</p>
-<p>Movement Implemented</p>
+<p><li>Rolling Player<li></p>
+<p><li>Movement Implemented<li></p>
 
-<p>Nice/Better to Have</p>
+# <p>Nice/Better to Have</p>
 
-<p>Control Information</p>
-<p>"Cool" website design</p>
-<p>Restart Button</p>
+<p><li>Control Information<li></p>
+<p><li>"Cool" website design<li></p>
+<p><li>Restart Button<li></p>
 
 <hr>
 
