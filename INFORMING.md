@@ -47,12 +47,13 @@
 #### GitHub
 <p>We used GitHub, so our Teacher can take a look at our project. We also used it to save our Progress. </p>
 <li>GitHub ist ein Onlinedienst zur Softwareentwicklung und Versionsverwaltung für Softwareprojekte auf Git-Basis.</li>
+
 #### Google-/drive/docs
 <p> We had to use Google to do some research about our code, and we had to use Google Drive/Docs because we needed to fill out some documents our Teacher gave us. </p>
 
 #### Excel
 <p> In Excel, we did all of our tables. </p>
-
+<li>GitHub ist ein Onlinedienst zur Softwareentwicklung und Versionsverwaltung für Softwareprojekte auf Git-Basis.</li>
 
 <hr>
 
