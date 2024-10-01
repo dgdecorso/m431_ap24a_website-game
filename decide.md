@@ -10,7 +10,7 @@
 
 ## Decison Matrix 
 
-Before we started making the game, we both had to decide on what game engine were going to use. We agreed on GODOT because Leon already has a little bit Experience on it. We didnt have any problems deciding what Engine we use to program the website, because we only know VS studio Code.
+Before we started making the game, we both had to decide on what game engine were going to use. We agreed on GODOT because Leon already had a little bit Experience with it. We didnt have any problems deciding what Engine we use to program the website, because we only know VS studio Code.
 
 <br>
 
