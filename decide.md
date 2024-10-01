@@ -22,7 +22,7 @@ Before we started making the game, we both had to decide on what game engine wer
 <p>We agreed on that the Experince is the most important thing, because we dont have to learn anything or less things. </p>
   
 <li>Language simplicity</li>
-<p>The language simplicity was important because, if don't know how something works we can watch a tutorial and understand it easier. Also if we have a problem we could solve it easier, since if the code would be complicated and more complex, it would be harder to find the error and correct it/p>
+<p>The language simplicity was important because, if don't know how something works we can watch a tutorial and understand it easier. Also if we have a problem we could solve it easier, since if the code would be complicated and more complex, it would be harder to find the error and correct it</p>
 
 <li>Software simplicity</li>
 <p> We wanted The programming language to be easy to develop a game. After we did some research we decided c would be easier.</p>
