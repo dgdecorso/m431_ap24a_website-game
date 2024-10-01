@@ -24,7 +24,7 @@ Having at least 10 downloads in 1 Month
 <p>Functioning Download Button for everyone</p>
 <p>A Simple but fun game</p>
 
-##Non-Functional Requierements
+## Non-Functional Requierements
 <p>Must Have</p>
 
 <p>Physics on the Charakter</p>
