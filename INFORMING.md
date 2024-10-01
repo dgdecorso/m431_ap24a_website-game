@@ -33,7 +33,7 @@ Having at least 10 downloads in 1 Month
 
 <p>Nice/Better to Have</p>
 
-<p>Control Information</p>>
+<p>Control Information</p>
 <p>"Cool" website design</p>
 <p>Restart Button</p>
 
