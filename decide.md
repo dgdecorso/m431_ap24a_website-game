@@ -10,8 +10,7 @@
 
 ## Decison Matrix 
 
-Before we agreed on making a Tic-tac-toe game, we both wanted to do a Rock Paper Scissors game. In the end, we decided again, because we thought Rock Paper Scissors would be too easy, and we wanted to set us a challenge. 
-We both wanted our first project to be a slight challenge and not too easy. With the help of some research on how easy each project would be and our skills, we changed it.
+Before we started making the game, we both had to decide on what game engine were going to use. We agreed on GODOT because Leon already has a little bit Experience on it. We didnt have any problems deciding what Engine we use to program the website, because we only know VS studio Code.
 
 <br>
 
