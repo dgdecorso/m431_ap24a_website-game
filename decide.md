@@ -25,10 +25,10 @@ Before we started making the game, we both had to decide on what game engine wer
 <p>The language simplicity was important because, if don't know how something works we can watch a tutorial and understand it easier. Also if we have a problem we could solve it easier, since if the code would be complicated and more complex, it would be harder to find the error and correct it</p>
 
 <li>Software simplicity</li>
-<p> We wanted The programming language to be easy to develop a game. After we did some research we decided c would be easier.</p>
+<p> We wanted a simple but useful engine. For us it would be easier to learn it and implement things.</p>
 
 <li>Features</li>
-<p>We needed to learn more about the language communities. We figured out that C is very good for programming games and that it wouldn't be too hard. Java Script is more of the Webbdesign langauage, which we didnt need.</p></p>
+<p>If the engine has some useful features, we would profit from it, but it wasnt that important so we didnt prioritize it so much.</p></p>
 
 </ul>
 
