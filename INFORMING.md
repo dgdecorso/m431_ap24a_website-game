@@ -55,6 +55,10 @@
 <p> In Excel, we did all of our tables. </p>
 <li>"GitHub ist ein Onlinedienst zur Softwareentwicklung und Versionsverwaltung für Softwareprojekte auf Git-Basis." - Wikipedia</li>
 
+#### VS CODE
+<p>To programm the website we used VS code</p>
+<li>"Visual Studio Code combines the simplicity of a source code editor with powerful developer tooling, like IntelliSense code completion and debugging." - VS code</li>
+
 <hr>
 
 ## Resources 
