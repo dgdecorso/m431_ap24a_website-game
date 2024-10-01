@@ -4,7 +4,8 @@
 
 ## Decisions 
 
-![Uploading Screenshot 2024-10-01 162106.png…]()
+![Screenshot 2024-10-01 162106](https://github.com/user-attachments/assets/ae81f350-22c7-4543-8540-0a5e3c5e5a84)
+
 
 
 <hr>
