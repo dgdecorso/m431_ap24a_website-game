@@ -27,7 +27,7 @@ Having at least 10 downloads in 1 Month
 ## Non-Functional Requierements
 <p>Must Have</p>
 
-<li><p>Physics on the Charakter</p></li>
+<p><li>Physics on the Charakter</li></p>
 <p>Rolling Player</p>
 <p>Movement Implemented</p>
 
