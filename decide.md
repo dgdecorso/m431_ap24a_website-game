@@ -18,16 +18,21 @@ Before we started making the game, we both had to decide on what game engine wer
 
 
 <ul>
-<li>Type of Game </li>
-<p> Type of game was an important Matrix Criteria for us, since we were thinking between doing it on C or Java Script. For Java Script you also need to know about HTML and CSS. Me and Fabiano both had no experiences with Jav and little with C. </p>
+<li>Experience</li>
+<p>We agreed on that the Experince is the most important thing, because we dont have to learn anything or less things </p>
+  
 <li>Programming Language</li>
 <p>It was important that we knew at least a little bit of one of the languages, so we wouldn't habe that many problems.</p>
+
 <li>Easy to Develop</li>
 <p> We wanted The programming language to be easy to develop a game. After we did some research we decided c would be easier.</p>
+
 <li>Community</li>
 <p>We needed to learn more about the language communities. We figured out that C is very good for programming games and that it wouldn't be too hard. Java Script is more of the Webbdesign langauage, which we didnt need.</p></p>
+
 <li>Prior Experiences</li>
 <p>It was very important to us that we choose a langauge where we would already have some experiences. It is much easier to programm something in this way.</p>
+
 </ul>
 
 
