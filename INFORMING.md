@@ -24,6 +24,18 @@ Having at least 10 downloads in 1 Month
 <p>Functioning Download Button for everyone</p>
 <p>A Simple but fun game</p>
 
+##Non-Functional Requierements
+<p>Must Have</p>
+
+<p>Physics on the Charakter</p>
+<p>Rolling Player</p>
+<p>Movement Implemented</p>
+
+<p>Nice/Better to Have</p>
+
+<p>Control Information</p>>
+<p>"Cool" website design</p>
+<p>Restart Button</p>
 
 <hr>
 
