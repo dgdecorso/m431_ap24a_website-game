@@ -4,7 +4,7 @@
 
 ## Collecting Information 
 
-<ul><li> at first we had to find a partner, we wanted to do a project with persons but we decide to do it with 2two persons because its easier to plan the project. We discussed our ideas and did put them together and we found a project that we both liked, we decided to make a game and a website to download it.</li></ul>
+<ul><li> at first we had to find a partner, we wanted to do a project with persons but we decide to do it with two persons because its easier to plan the project. We discussed our ideas and did put them together and we found a project that we both liked, we decided to make a game and a website to download it.</li></ul>
 
 <hr>
 
