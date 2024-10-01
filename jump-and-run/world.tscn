@@ -142,3 +142,11 @@ self_modulate = Color(1, 1, 1, 0.509804)
 position = Vector2(1097.5, 47.5)
 scale = Vector2(0.973684, 1.55)
 texture = ExtResource("6_a3bgi")
+
+[node name="TextEdit" type="TextEdit" parent="Wining Box"]
+modulate = Color(1, 0, 0, 1)
+offset_left = 1042.0
+offset_top = -1.0
+offset_right = 1153.0
+offset_bottom = 34.0
+text = "   You Won!!!"
