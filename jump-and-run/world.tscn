@@ -26,6 +26,14 @@ size = Vector2(1151.5, 31.25)
 
 [node name="Background" type="Node2D" parent="."]
 
+[node name="TextEdit2" type="TextEdit" parent="Background"]
+modulate = Color(1, 0, 0, 1)
+offset_left = 1042.0
+offset_right = 1227.0
+offset_bottom = 37.0
+scale = Vector2(0.6, 0.6)
+text = "            You Won!!!"
+
 [node name="TextureRect" type="TextureRect" parent="Background"]
 texture_filter = 1
 offset_right = 1153.0
@@ -59,6 +67,16 @@ offset_left = -1200.0
 offset_top = -1154.0
 offset_right = 2356.0
 texture = ExtResource("2_2w4g1")
+
+[node name="TextEdit" type="TextEdit" parent="Background"]
+offset_left = -173.0
+offset_top = 504.0
+offset_bottom = 647.0
+text = "Character Controller:
+Go Left: A
+Go Right: D
+Jump: W
+Rolling: SPACE + A/D"
 
 [node name="Defeat Box" type="StaticBody2D" parent="."]
 
@@ -109,7 +127,7 @@ position = Vector2(401.25, -183.875)
 shape = SubResource("RectangleShape2D_ixt1k")
 
 [node name="Player" parent="." instance=ExtResource("1_12ilm")]
-position = Vector2(88, 539)
+position = Vector2(91, 556)
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
 zoom = Vector2(5, 5)
@@ -124,11 +142,3 @@ self_modulate = Color(1, 1, 1, 0.509804)
 position = Vector2(1097.5, 47.5)
 scale = Vector2(0.973684, 1.55)
 texture = ExtResource("6_a3bgi")
-
-[node name="TextEdit" type="TextEdit" parent="Wining Box"]
-modulate = Color(1, 0, 0, 1)
-offset_left = 1042.0
-offset_right = 1227.0
-offset_bottom = 33.0
-scale = Vector2(0.6, 0.6)
-text = "            You Won!!!"
