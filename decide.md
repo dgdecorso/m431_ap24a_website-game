@@ -15,7 +15,8 @@ We both wanted our first project to be a slight challenge and not too easy. With
 
 <br>
 
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/375c0137-b516-4ed8-bbf3-b9cb7032e781)
+![Screenshot 2024-10-01 153010](https://github.com/user-attachments/assets/06088f5c-2d4e-4ff9-9e17-6284ec8c3fdb)
+
 
 <ul>
 <li>Type of Game </li>
