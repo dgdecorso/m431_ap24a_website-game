@@ -4,7 +4,7 @@
 
 # HERE YOU CAN DOWNLOAD IT
 
-[HERE](www.goodgamedl.com)
+[HERE](https://goodgamedl.com)
 
 
 
