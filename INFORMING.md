@@ -21,7 +21,7 @@
 
 ## Goals
 <p>Having at least 10 downloads in 1 Month</p>
-<p>Having at least 60% good reviews from the players, after the release</p>
+<p>Having at least 60% good reviews from the players, before the release</p>
 
 ## Non-Functional Requierements
 # <p>Must Have</p>
