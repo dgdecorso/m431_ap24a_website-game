@@ -1,7 +1,9 @@
-[gd_scene load_steps=23 format=3 uid="uid://cluk2k6itktxb"]
+[gd_scene load_steps=34 format=3 uid="uid://cluk2k6itktxb"]
 
 [ext_resource type="Texture2D" uid="uid://bo71q4i72ix8h" path="res://TBZ Projekt Godot/Sprite-00011.png" id="1_kxr35"]
 [ext_resource type="Texture2D" uid="uid://iqts3w0ox0d" path="res://Screenshot 2024-09-24 152916.png" id="2_ikeu1"]
+[ext_resource type="PackedScene" uid="uid://bcmwwqwxkkqpt" path="res://Bodenteil.tscn" id="3_e7t73"]
+[ext_resource type="PackedScene" uid="uid://dmjly5i52pwb7" path="res://Bodenteilklein.tscn" id="4_vfuw4"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_r1pnr"]
 size = Vector2(202, 25)
@@ -62,6 +64,34 @@ size = Vector2(65, 12)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ejvq4"]
 size = Vector2(114, 71)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2owav"]
+size = Vector2(863.5, 40)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_xvm8g"]
+size = Vector2(15, 626)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qri5e"]
+size = Vector2(55.25, 16.5)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_m1mcl"]
+size = Vector2(77, 20)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_canjp"]
+size = Vector2(16, 10)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_8mr8q"]
+size = Vector2(20, 564.75)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_504jq"]
+size = Vector2(14, 105)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vlwct"]
+size = Vector2(611.5, 22)
+
+[sub_resource type="SegmentShape2D" id="SegmentShape2D_65ha2"]
+a = Vector2(19, -1)
+b = Vector2(0, 12)
 
 [node name="Parcour" type="StaticBody2D"]
 
@@ -335,3 +365,344 @@ shape = SubResource("RectangleShape2D_ejvq4")
 position = Vector2(905.125, 34)
 scale = Vector2(0.152072, 0.107087)
 texture = ExtResource("2_ikeu1")
+
+[node name="Sprite-00042" type="Sprite2D" parent="."]
+position = Vector2(1583.5, 175.5)
+scale = Vector2(10.7875, 4.85294)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00043" type="Sprite2D" parent="."]
+position = Vector2(1583, -16)
+scale = Vector2(10.7812, 3)
+texture = ExtResource("1_kxr35")
+
+[node name="CollisionShape2D32" type="CollisionShape2D" parent="."]
+position = Vector2(1584, 113)
+shape = SubResource("RectangleShape2D_2owav")
+
+[node name="CollisionShape2D33" type="CollisionShape2D" parent="."]
+position = Vector2(1584, -20)
+shape = SubResource("RectangleShape2D_2owav")
+
+[node name="Sprite-00044" type="Sprite2D" parent="."]
+position = Vector2(1112, -18)
+rotation = -0.293031
+scale = Vector2(1.50954, 2.06806)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00045" type="Sprite2D" parent="."]
+position = Vector2(1145.81, -18.2566)
+rotation = -0.258375
+scale = Vector2(1.4589, 1.93186)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00046" type="Sprite2D" parent="."]
+position = Vector2(1100, -4)
+scale = Vector2(1.2125, 1.47059)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00047" type="Sprite2D" parent="."]
+position = Vector2(1163.28, -15.118)
+rotation = -0.393105
+scale = Vector2(1.16662, 1.46259)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00048" type="Sprite2D" parent="."]
+position = Vector2(1165, -15)
+rotation = -0.352449
+scale = Vector2(1.3791, 1.34783)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00049" type="Sprite2D" parent="."]
+position = Vector2(1103, -5.5)
+scale = Vector2(1.325, 1.38235)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00050" type="Sprite2D" parent="."]
+position = Vector2(2136.95, 242.71)
+rotation = -1.57374
+scale = Vector2(7.81786, 1)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00066" type="Sprite2D" parent="."]
+position = Vector2(2969.27, 369.721)
+rotation = -1.57374
+scale = Vector2(7.16475, 1)
+texture = ExtResource("1_kxr35")
+
+[node name="CollisionShape2D34" type="CollisionShape2D" parent="."]
+position = Vector2(2130.5, 245)
+shape = SubResource("RectangleShape2D_xvm8g")
+
+[node name="Sprite-00051" type="Sprite2D" parent="."]
+position = Vector2(2097.5, 181)
+scale = Vector2(0.6375, 1)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00052" type="Sprite2D" parent="."]
+position = Vector2(2032, 269)
+scale = Vector2(0.724999, 1)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00053" type="Sprite2D" parent="."]
+position = Vector2(2096, 357)
+scale = Vector2(0.625, 1)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00054" type="Sprite2D" parent="."]
+position = Vector2(2037, 456)
+scale = Vector2(0.7625, 1)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00055" type="Sprite2D" parent="."]
+position = Vector2(2100, 557)
+scale = Vector2(0.637501, 1)
+texture = ExtResource("1_kxr35")
+
+[node name="CollisionShape2D35" type="CollisionShape2D" parent="."]
+position = Vector2(2101.38, 175)
+shape = SubResource("RectangleShape2D_qri5e")
+
+[node name="CollisionShape2D36" type="CollisionShape2D" parent="."]
+position = Vector2(2032, 263)
+shape = SubResource("RectangleShape2D_qri5e")
+
+[node name="CollisionShape2D37" type="CollisionShape2D" parent="."]
+position = Vector2(2098, 349)
+shape = SubResource("RectangleShape2D_qri5e")
+
+[node name="CollisionShape2D38" type="CollisionShape2D" parent="."]
+position = Vector2(2037, 448)
+shape = SubResource("RectangleShape2D_qri5e")
+
+[node name="CollisionShape2D39" type="CollisionShape2D" parent="."]
+position = Vector2(2102, 550)
+shape = SubResource("RectangleShape2D_qri5e")
+
+[node name="Sprite-00056" type="Sprite2D" parent="."]
+position = Vector2(2044, 626)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00057" type="Sprite2D" parent="."]
+position = Vector2(2186, 628)
+texture = ExtResource("1_kxr35")
+
+[node name="CollisionShape2D40" type="CollisionShape2D" parent="."]
+position = Vector2(2043.5, 620)
+shape = SubResource("RectangleShape2D_m1mcl")
+
+[node name="CollisionShape2D41" type="CollisionShape2D" parent="."]
+position = Vector2(2187, 621)
+shape = SubResource("RectangleShape2D_m1mcl")
+
+[node name="Sprite-00058" type="Sprite2D" parent="."]
+position = Vector2(2311, 622.5)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00059" type="Sprite2D" parent="."]
+position = Vector2(2389, 623)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00060" type="Sprite2D" parent="."]
+position = Vector2(2469, 623)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00061" type="Sprite2D" parent="."]
+position = Vector2(2543, 623)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00062" type="Sprite2D" parent="."]
+position = Vector2(2625, 623)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00063" type="Sprite2D" parent="."]
+position = Vector2(2715, 622)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00064" type="Sprite2D" parent="."]
+position = Vector2(2805, 622)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00065" type="Sprite2D" parent="."]
+position = Vector2(2899, 622)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00067" type="Sprite2D" parent="."]
+position = Vector2(2947, 570)
+scale = Vector2(0.224999, 0.558824)
+texture = ExtResource("1_kxr35")
+
+[node name="CollisionShape2D42" type="CollisionShape2D" parent="."]
+position = Vector2(2311, 619)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D43" type="CollisionShape2D" parent="."]
+position = Vector2(2389, 620)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D44" type="CollisionShape2D" parent="."]
+position = Vector2(2469, 620)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D45" type="CollisionShape2D" parent="."]
+position = Vector2(2543, 620)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D46" type="CollisionShape2D" parent="."]
+position = Vector2(2625, 620)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D47" type="CollisionShape2D" parent="."]
+position = Vector2(2715, 619)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D48" type="CollisionShape2D" parent="."]
+position = Vector2(2805, 619)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D49" type="CollisionShape2D" parent="."]
+position = Vector2(2899, 619)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D51" type="CollisionShape2D" parent="."]
+position = Vector2(2947, 567)
+shape = SubResource("RectangleShape2D_canjp")
+
+[node name="CollisionShape2D50" type="CollisionShape2D" parent="."]
+position = Vector2(2966, 369.625)
+shape = SubResource("RectangleShape2D_8mr8q")
+
+[node name="StaticBody2D" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2840, 512)
+
+[node name="StaticBody2D2" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2669, 496)
+
+[node name="StaticBody2D3" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2502, 477)
+
+[node name="StaticBody2D4" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2329, 483)
+
+[node name="StaticBody2D5" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2171, 451)
+
+[node name="StaticBody2D6" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2296, 376)
+
+[node name="StaticBody2D7" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2476, 329)
+
+[node name="StaticBody2D8" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2699, 361)
+
+[node name="StaticBody2D9" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2916, 309)
+
+[node name="Bodenteilklein" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(2841, 228)
+
+[node name="Bodenteilklein2" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(2728, 211)
+
+[node name="Bodenteilklein3" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(2610, 185)
+
+[node name="Bodenteilklein4" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(2472, 176)
+
+[node name="Bodenteilklein5" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(2333, 176)
+
+[node name="Bodenteilklein6" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(2228, 154)
+
+[node name="Bodenteilklein7" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(2145, 113)
+
+[node name="Bodenteil" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2262, 53)
+
+[node name="Bodenteil2" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2431, 53)
+
+[node name="Bodenteil3" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2602, 53)
+
+[node name="Bodenteil4" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2776, 53)
+
+[node name="Bodenteil5" parent="." instance=ExtResource("3_e7t73")]
+position = Vector2(2938, 97)
+
+[node name="Bodenteilklein8" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(3093, 199)
+scale = Vector2(1.0854, 1.02322)
+
+[node name="Bodenteilklein9" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(3001, 371)
+
+[node name="Bodenteilklein10" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(3115, 454)
+
+[node name="Bodenteilklein11" parent="." instance=ExtResource("4_vfuw4")]
+position = Vector2(3034, 601)
+
+[node name="Sprite-00069" type="Sprite2D" parent="."]
+position = Vector2(3746.95, 582.005)
+rotation = -1.57235
+scale = Vector2(1.19992, 1.06117)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00068" type="Sprite2D" parent="."]
+position = Vector2(3427, 644.5)
+scale = Vector2(7.6, 1.61765)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00070" type="Sprite2D" parent="."]
+position = Vector2(3450, 522)
+rotation = -3.14092
+scale = Vector2(7.33943, 1)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00071" type="Sprite2D" parent="."]
+position = Vector2(3732.4, 627.667)
+rotation = -0.623855
+scale = Vector2(0.298199, 1.15309)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00072" type="Sprite2D" parent="."]
+position = Vector2(3732, 629)
+rotation = -0.587903
+scale = Vector2(0.384401, 0.698563)
+texture = ExtResource("1_kxr35")
+
+[node name="Sprite-00073" type="Sprite2D" parent="."]
+position = Vector2(3737.44, 528.866)
+rotation = -2.32535
+scale = Vector2(0.284721, 0.726936)
+texture = ExtResource("1_kxr35")
+
+[node name="CollisionShape2D53" type="CollisionShape2D" parent="."]
+position = Vector2(3737, 586.5)
+shape = SubResource("RectangleShape2D_504jq")
+
+[node name="CollisionShape2D52" type="CollisionShape2D" parent="."]
+position = Vector2(3430.5, 628)
+shape = SubResource("RectangleShape2D_vlwct")
+
+[node name="CollisionShape2D54" type="CollisionShape2D" parent="."]
+position = Vector2(3463.25, 525)
+shape = SubResource("RectangleShape2D_vlwct")
+
+[node name="CollisionShape2D55" type="CollisionShape2D" parent="."]
+position = Vector2(3712, 607)
+shape = SubResource("SegmentShape2D_65ha2")

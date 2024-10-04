@@ -1,6 +1,5 @@
 extends CharacterBody2D
 
-
 const SPEED = 200.0
 const JUMP_VELOCITY = -390.0
 const ROLLING_SPEED_SCALE = 1.5
@@ -14,6 +13,9 @@ var rolling_timer = null
 var is_rolling = false
 
 var start_position: Vector2 = Vector2(88, 539)
+
+var checkpoint = false
+var checkpoint_position = Vector2(1100, 50)
 
 func _ready():
 	rolling_timer = Timer.new()
@@ -44,8 +46,11 @@ func _physics_process(delta):
 	
 	move_character(SPEED)
 	
-	if is_on_floor() and Input.is_action_just_pressed("restart"):
+	if is_on_floor() and Input.is_action_just_pressed("restart") and checkpoint == false:
 		teleport_to_start()
+	
+	if is_on_floor() and Input.is_action_just_pressed("restart") and checkpoint == true:
+		teleport_to_checkpoint()
 	
 	if Input.is_action_just_pressed("roll"):
 		start_rolling()
@@ -88,3 +93,14 @@ func _on_rolling_done():
 
 func teleport_to_start():
 	position = start_position
+
+func teleport_to_checkpoint():
+	position = checkpoint_position
+
+func _on_area_2d_body_entered(body: Node2D) -> void:
+	Global.WON = true
+	print(Global.WON)  # Debug-Ausgabe
+
+
+func _on_area_2d_2_body_entered(body: Node2D) -> void: #Checkpoint
+	checkpoint = true

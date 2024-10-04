@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://bcmwwqwxkkqpt"]
+
+[ext_resource type="Texture2D" uid="uid://bo71q4i72ix8h" path="res://TBZ Projekt Godot/Sprite-00011.png" id="1_04u0m"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_w573s"]
+size = Vector2(78, 14)
+
+[node name="Bodenteil" type="StaticBody2D"]
+
+[node name="Sprite-00011" type="Sprite2D" parent="."]
+texture = ExtResource("1_04u0m")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -9)
+shape = SubResource("RectangleShape2D_w573s")

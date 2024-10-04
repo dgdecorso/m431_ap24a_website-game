@@ -1,4 +1,4 @@
-[gd_scene load_steps=19 format=3 uid="uid://dhfq5450makt2"]
+[gd_scene load_steps=18 format=3 uid="uid://dhfq5450makt2"]
 
 [ext_resource type="PackedScene" uid="uid://bo0kisj2g68ba" path="res://player.tscn" id="1_12ilm"]
 [ext_resource type="Script" path="res://world.gd" id="1_l3ybm"]
@@ -9,6 +9,7 @@
 [ext_resource type="PackedScene" uid="uid://cluk2k6itktxb" path="res://parcour.tscn" id="4_ggdij"]
 [ext_resource type="Texture2D" uid="uid://e05i54x3ca4v" path="res://Screenshot 2024-09-17 163217.png" id="6_a3bgi"]
 [ext_resource type="PackedScene" uid="uid://m8mg6kgeir2u" path="res://Goldcoin.tscn" id="8_47tpq"]
+[ext_resource type="Script" path="res://goldcoin.gd" id="8_leg46"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_so4oo"]
 size = Vector2(1377, 171)
@@ -16,26 +17,20 @@ size = Vector2(1377, 171)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ujjag"]
 size = Vector2(131.375, 1912)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_bot4h"]
+size = Vector2(41.3677, 570.218)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_mw4pk"]
 size = Vector2(27, 3223)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ixt1k"]
 size = Vector2(1151.5, 31.25)
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_bot4h"]
-size = Vector2(48.4247, 2405.15)
-
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_wajgy"]
 size = Vector2(34, 1843)
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_dpgdc"]
-size = Vector2(27.5, 576)
-
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_uh4h5"]
-size = Vector2(109, 94)
-
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_jgkys"]
-size = Vector2(109, 83)
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_xebw2"]
+size = Vector2(112, 108)
 
 [node name="World" type="Node2D"]
 script = ExtResource("1_l3ybm")
@@ -89,16 +84,14 @@ offset_right = 4247.0
 texture = ExtResource("2_2w4g1")
 
 [node name="TextEdit" type="TextEdit" parent="Background"]
-offset_left = -189.0
-offset_top = 471.0
-offset_right = -16.0
-offset_bottom = 646.0
-text = "Controlls:
+offset_left = -173.0
+offset_top = 504.0
+offset_bottom = 647.0
+text = "Character Controller:
 Go Left: A
 Go Right: D
 Jump: W
-Rolling: SPACE + A/D
-Restart: R"
+Rolling: SPACE + A/D"
 
 [node name="Screenshot2024-10-01162325" type="Sprite2D" parent="Background"]
 position = Vector2(2577.87, 290.75)
@@ -175,6 +168,11 @@ text = "                    Game Over!!!"
 [node name="Borders" type="StaticBody2D" parent="."]
 position = Vector2(176, 168.5)
 
+[node name="CollisionShape2D7" type="CollisionShape2D" parent="Borders"]
+position = Vector2(3000.26, 60.4903)
+rotation = -0.00552708
+shape = SubResource("RectangleShape2D_bot4h")
+
 [node name="CollisionShape2D6" type="CollisionShape2D" parent="Borders"]
 position = Vector2(1817, 1576.5)
 shape = SubResource("RectangleShape2D_mw4pk")
@@ -188,7 +186,7 @@ position = Vector2(-189, 1443)
 shape = SubResource("RectangleShape2D_mw4pk")
 
 [node name="CollisionShape2D3" type="CollisionShape2D" parent="Borders"]
-position = Vector2(996.842, 1143.5)
+position = Vector2(999, 1170.5)
 shape = SubResource("RectangleShape2D_bot4h")
 
 [node name="CollisionShape2D4" type="CollisionShape2D" parent="Borders"]
@@ -198,10 +196,6 @@ shape = SubResource("RectangleShape2D_ixt1k")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Borders"]
 position = Vector2(2993, 1386)
 shape = SubResource("RectangleShape2D_wajgy")
-
-[node name="CollisionShape2D7" type="CollisionShape2D" parent="Borders"]
-position = Vector2(2995.25, 61.5)
-shape = SubResource("RectangleShape2D_dpgdc")
 
 [node name="Parcour" parent="." instance=ExtResource("4_ggdij")]
 
@@ -228,150 +222,24 @@ offset_right = 3730.0
 offset_bottom = 569.0
 text = "   You Won!!!"
 
-[node name="Checkpointbox" type="Area2D" parent="."]
-collision_mask = 2
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Checkpointbox"]
-position = Vector2(1098.5, 47)
-shape = SubResource("RectangleShape2D_uh4h5")
-
-[node name="TextEdit" type="TextEdit" parent="Checkpointbox"]
-offset_left = 1054.0
-offset_top = -39.0
-offset_right = 1151.0
-offset_bottom = -3.0
-text = "Checkpoint"
-
-[node name="Area2D" type="Area2D" parent="."]
-collision_mask = 2
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
-position = Vector2(3678, 575)
-shape = SubResource("RectangleShape2D_jgkys")
-
 [node name="Player" parent="." instance=ExtResource("1_12ilm")]
-position = Vector2(99, 556)
+position = Vector2(3360, 576)
 collision_layer = 2
 collision_mask = 3
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
 zoom = Vector2(5, 5)
 
-[node name="Items" type="Node2D" parent="."]
+[node name="RigidBody2D" parent="." instance=ExtResource("8_47tpq")]
+position = Vector2(3454, 579)
+collision_layer = 4
+collision_mask = 7
+script = ExtResource("8_leg46")
 
-[node name="RigidBody2D15" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3526, 551)
+[node name="Area2D" type="Area2D" parent="."]
 
-[node name="RigidBody2D5" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3410, 593)
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(3678, 581)
+shape = SubResource("RectangleShape2D_xebw2")
 
-[node name="RigidBody2D4" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3323, 565)
-
-[node name="RigidBody2D2" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3259, 550)
-
-[node name="RigidBody2D" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3667, 554)
-
-[node name="RigidBody2D3" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3420, 559)
-
-[node name="RigidBody2D6" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3250, 601)
-
-[node name="RigidBody2D7" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3204, 594)
-
-[node name="RigidBody2D8" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3358, 455)
-
-[node name="RigidBody2D9" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3351, 300)
-
-[node name="RigidBody2D10" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3573, 388)
-
-[node name="RigidBody2D11" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3645, 382)
-
-[node name="RigidBody2D12" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3289, 400)
-
-[node name="RigidBody2D13" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3460, 427)
-
-[node name="RigidBody2D16" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3652, 601)
-
-[node name="RigidBody2D17" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3294, 596)
-
-[node name="RigidBody2D18" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3223, 558)
-
-[node name="RigidBody2D19" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3716, 589)
-
-[node name="RigidBody2D14" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3656, 474)
-
-[node name="RigidBody2D21" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3340, 576)
-
-[node name="RigidBody2D22" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3585, 595)
-
-[node name="RigidBody2D20" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3468, 577)
-
-[node name="RigidBody2D23" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3501, 600)
-
-[node name="RigidBody2D24" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3364, 601)
-
-[node name="RigidBody2D25" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3376, 564)
-
-[node name="RigidBody2D26" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3594, 559)
-
-[node name="RigidBody2D27" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3442, 598)
-
-[node name="RigidBody2D28" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3503, 571)
-
-[node name="RigidBody2D29" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3466, 549)
-
-[node name="RigidBody2D30" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3540, 596)
-
-[node name="RigidBody2D31" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3557, 560)
-
-[node name="RigidBody2D32" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3547, 273)
-
-[node name="RigidBody2D33" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3503, 286)
-
-[node name="RigidBody2D34" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3390, 365)
-
-[node name="RigidBody2D35" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3266, 471)
-
-[node name="RigidBody2D36" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3542, 436)
-
-[node name="RigidBody2D37" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3173, 560)
-
-[node name="RigidBody2D38" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3175, 595)
-
-[connection signal="body_entered" from="Checkpointbox" to="Player" method="_on_area_2d_2_body_entered"]
 [connection signal="body_entered" from="Area2D" to="Player" method="_on_area_2d_body_entered"]

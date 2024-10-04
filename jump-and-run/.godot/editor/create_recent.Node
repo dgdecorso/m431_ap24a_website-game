@@ -1,8 +1,10 @@
 TextEdit
 CollisionShape2D
-Panel
+Area2D
+RigidBody2D
 Node2D
 StaticBody2D
+Panel
 TextureRect
 Camera2D
 AnimatedSprite2D

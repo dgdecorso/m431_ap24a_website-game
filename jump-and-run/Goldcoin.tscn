@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://m8mg6kgeir2u"]
+
+[ext_resource type="Texture2D" uid="uid://dcsf4l7yo1u6h" path="res://341-3416752_coin-golden-goldcoin-s-dollar-pixel-pixels.png" id="1_8dh7q"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_3skyc"]
+radius = 12.0416
+
+[node name="RigidBody2D" type="RigidBody2D"]
+collision_layer = 4
+collision_mask = 7
+
+[node name="341-3416752Coin-golden-goldcoin-s-dollar-pixel-pixels" type="Sprite2D" parent="."]
+scale = Vector2(0.03, 0.03)
+texture = ExtResource("1_8dh7q")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_3skyc")
