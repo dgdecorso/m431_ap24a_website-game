@@ -250,7 +250,7 @@ position = Vector2(3678, 575)
 shape = SubResource("RectangleShape2D_jgkys")
 
 [node name="Player" parent="." instance=ExtResource("1_12ilm")]
-position = Vector2(99, 556)
+position = Vector2(116, 552)
 collision_layer = 2
 collision_mask = 3
 
@@ -366,12 +366,6 @@ position = Vector2(3266, 471)
 
 [node name="RigidBody2D36" parent="Items" instance=ExtResource("8_47tpq")]
 position = Vector2(3542, 436)
-
-[node name="RigidBody2D37" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3173, 560)
-
-[node name="RigidBody2D38" parent="Items" instance=ExtResource("8_47tpq")]
-position = Vector2(3175, 595)
 
 [connection signal="body_entered" from="Checkpointbox" to="Player" method="_on_area_2d_2_body_entered"]
 [connection signal="body_entered" from="Area2D" to="Player" method="_on_area_2d_body_entered"]
