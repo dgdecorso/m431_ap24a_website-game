@@ -18,3 +18,7 @@
 <p>Leon also thought about the funny feature to add like gold coins at the end which also got physics which you can just push around. It should simply symbolize the end of the jump and run and that you have won. So at this point the game itself is finished. Leon just had to export it.</p>
  
 # Diego's Part
+
+Diego did worked mostly on GitHub, but he also did the website to download the game.
+
+<p>Programming the Website is very simple. I designed a download button on paint and then I Implemented a link into the pictue so if you click on it dowloads starts the download</p>
