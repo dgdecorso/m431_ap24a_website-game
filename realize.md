@@ -1,3 +1,5 @@
+# Leon's Part
+
 <p>Leon gathered the game assets for the game. For the floor parts and the character including the animations he used the assets from a game, which he made with a friend in the Secondaryschool. These assets were created by Leons friend. Everything else he just got from the Internet. After that Leon downloaded Godot from the Internet, set everything up and created the project in Godot. </p>
 
 
@@ -15,3 +17,4 @@
 
 <p>Leon also thought about the funny feature to add like gold coins at the end which also got physics which you can just push around. It should simply symbolize the end of the jump and run and that you have won. So at this point the game itself is finished. Leon just had to export it.</p>
  
+# Diego's Part
