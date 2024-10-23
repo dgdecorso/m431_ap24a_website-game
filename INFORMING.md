@@ -2,6 +2,7 @@
 
 
 
+
 ## Collecting Information 
 
 <ul><li> at first we had to find a partner, we wanted to do a project with persons but we decide to do it with two persons because its easier to plan the project. We discussed our ideas and did put them together and we found a project that we both liked, we decided to make a game and a website to download it.</li></ul>
@@ -20,10 +21,13 @@
 <hr>
 
 ## Goals
-<p>Having at least 10 downloads in 1 Month</p>
+<p>Having at least 10 downloads in 1 Month, by asking people</p>
 <p>Having at least 60% good reviews from the players, before the release</p>
 
 ## Non-Functional Requierements
+<p>No bugs in the game</p>
+<p>Simple Game that everbody  understands</p>
+
 # <p>Must Have</p>
 
 <p><li>Physics on the Charakter</li></p>
@@ -41,7 +45,7 @@
 ## Tools 
 
 #### Godot
-<p> We had to download godot, its simple but effective game engine. </p>
+<p> We had to download godot, its a simple but effective game engine. </p>
 <li>"Godot is a cross-platform, free and open-source game engine released under the permissive MIT license." - Wikipedia</li>
 
 #### GitHub
