@@ -1,9 +1,6 @@
 # Informing
 
 
-https://github.com/user-attachments/assets/46dd5942-125c-4072-9884-9cfd2506474d
-
-
 
 
 ## Collecting Information 
