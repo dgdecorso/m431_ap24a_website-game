@@ -7,7 +7,7 @@
 
 <ul> 
 <li> We are happy that we did it in time and we could complete all tasks.</li>
-<li> We relieved that we didn't have any major problems. </li>
+<li> We're relieved that we didn't have any major problems. </li>
 <li> We're glad that we could split the work so we didnt have any problems with organizing our work.</li>
 </ul>
 
