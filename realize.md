@@ -34,6 +34,12 @@
 
 <p>We thought about adding a restart button, so if the player falls down or the player gets to the end, you can restart. We have decided to bind the restart button to the key R. So Leon made a new function, which ensures that you can click R and restart at the beginning. But we made a compromise that you can only click it if the player is currently on the floor so you can't spam the button. </p>
 
+![Screenshot 2024-10-29 105854 (1)](https://github.com/user-attachments/assets/6d86e7c7-3508-428f-90be-d320a7d79b2a)
+
+![Screenshot 2024-10-29 110915](https://github.com/user-attachments/assets/ba1d2a7b-48b8-4d8e-a047-58b2b1c928a6)
+![Screenshot 2024-10-29 110900](https://github.com/user-attachments/assets/679e8f69-c1c1-4c7b-ba50-13ae047672b0)
+
+
 <p>We also made, that the rolling makes the player a little bit faster, but thought that currently the rolling is only a funny optional feature which you don't even have to use. So we inserted some spots in the jump and run which you can only overcome with the rolling. </p>
 
 <p>At this point we didn't really know what we should add to the game so it is more difficult and a little bit longer. So we decided to add a second for that. We just got another background form the internet and inserted it. Leon made a second level which should be a little bit more difficult. After the second level was made we got to a problem. The problem was that the game is just a little bit too difficult to complete both levels in one go without falling down. So we thought about making a little checkpoint at the end of the first level. So you don't have to do both levels in one try, so if you fall down in the second level you can just respawn at the end of the first level. Leon added this new feature with the checkpoint and adjusted the old one. So now if the player gets to the checkpoint a signal gets sent which changes a variable true which ensures that the player gets restarted at the checkpoint if you click the restart button. </p>
