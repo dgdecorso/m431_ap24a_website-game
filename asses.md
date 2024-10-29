@@ -6,29 +6,27 @@
 #### What did we like about our processs and why? 
 
 <ul> 
-<li> We are glad that we got to finish our project on time and that we did not run into any stress. I think if that had happened we would have lost focus and our project would not be as good as it now. </li>
-<li> We are both happy that we could improve our skills since we definitely will be needing them again. </li>
-<li> The Teacher and our friends were helpful when we had any questions about the projects.  </li>
-<li> Even though we did run into some problems, we are happy they weren't as big. Big problems take up a lot of time and they can get you very frustrated.</li>
-<li> Also, we are very happy that our game works without any major problems </li>
+<li> We are happy that we did it in time and we could complete all tasks.</li>
+<li> We are happy that we didn't have any major problems. </li>
+<li> We're glad that we could split the work so we didnt have any problems with organizing our work.</li>
+<li>  </li>
 </ul>
 
 <hr> 
 
 #### What can we improve for the next project? 
 <ul>
-<li> We could take up more time to test our project. It would be more helpful.</li>
-<li> Maybe for the next time, our milestones could be more challenging than this time.</li>
-<li> Our Task list should be more detailed the next time. </li>
+<li> We could organize our time better, even tough we did in time a little bit more time could've been useful.</li>
+<li> We coulde've started with the game a little bit earlier.</li>
 </ul>
 
 <hr> 
 
 #### What difficulties/problems have been faced? 
 <ul>
-<li> In the beginning, we had a lot of difficulties with GitHub. We didn't know how to write proper documentation, how to push our code, and how to use it overall. Over time, we learned everything we needed to know, and we are it didn't affect our problem too much. </li>
+<li>We didn't have any big problems. The only "Problem" that we had was the start, at first we had problems to understand the Progress itself. We didn't understand GitHub too. But after some time it wasn't a problem anymore.</li>
 
-<li> We also didn't plan too much time for our testing, which now leads to us not being able to fix all of our issues. Those issues don't affect our game in a bad way, but it still would have been nice to have those fixed. </li>
+<li>We had to rush the last part a little bit, because if we wouldn't have rushed it we w </li>
 </ul>
 
 <hr>
