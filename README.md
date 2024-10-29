@@ -1,6 +1,7 @@
 # THATS OUR GAME
 
 https://github.com/user-attachments/assets/46dd5942-125c-4072-9884-9cfd2506474d
+# Game Description
 <p>Thats our game. It's a simple Jump and Run game in a Mediaval style. The goal is to complete both levels by Jumping on platform and trying not to fall down.</p>
 
 # HERE YOU CAN DOWNLOAD IT
