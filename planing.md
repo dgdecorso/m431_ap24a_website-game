@@ -11,9 +11,9 @@
 ## Milestones
 These are our milestones
 
-<p>M01:Have an Idea</p> 
-<p>M02: Have the Plan with look of the game</p> 
-<p>M03: Having a game with the Website</p> 
+<p>M01:Have an Idea, of what we want to do.</p> 
+<p>M02: Have a Plan of what the game should look like</p> 
+<p>M03: Having a game with the working Website</p> 
 <p>M04: Launch the website with the game</p> 
 <p>M05: Submit the Assignment</p>
 <p>M06: Present the Assignment</p>
