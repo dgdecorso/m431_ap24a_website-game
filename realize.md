@@ -53,6 +53,7 @@
 ![Screenshot 2024-10-29 141222](https://github.com/user-attachments/assets/808cd336-2aa3-461f-8150-91f7152b0c9f)
 ![Screenshot 2024-10-29 141135](https://github.com/user-attachments/assets/2497a297-2a24-4725-8814-29089c3ae40b)
 ![Screenshot 2024-10-29 141146](https://github.com/user-attachments/assets/db6d75aa-b60e-4b37-a789-e9ac6911b60d)
+<hr>
 
 <p>At this point we didn't really know what we should add to the game so it is more difficult and a little bit longer. So we decided to add a second for that. We just got another background form the internet and inserted it. Leon made a second level which should be a little bit more difficult.
  
