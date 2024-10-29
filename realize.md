@@ -9,6 +9,7 @@
 
 ![Screenshot 2024-10-29 095038](https://github.com/user-attachments/assets/62a7e996-6fbf-4413-8117-d315d763c8ea)
 
+<hr>
 
 <p>When this step was done Leon inserted a background which we got from the internet and also added some borders so the player can't fall down later. He also made something similar to a defeat box, where the player gets when he falls down. At that point the designing and inserting part was for the first done. Leon could now start with the programming part. </p>
 
@@ -17,6 +18,7 @@
 
 ![Screenshot 2024-10-29 095701](https://github.com/user-attachments/assets/f787435a-b99e-49cd-982f-0f118d495748)
 
+<hr>
 
 <p>He started with adding the keybinds in the settings. For example the Key D is for going right, A is for going left and W for jumping. In the script he started with adding some variables and constants. He started programming the character controls, which ensures that the player can walk, jump and roll. It also ensures that the animations are getting played if the player walks for example and that the player flips if he goes left or right. So at this point we could try the game for the first time out.</p>
 
@@ -30,6 +32,7 @@
 
 
 
+<hr>
 
 
 <p>We thought about adding a restart button, so if the player falls down or the player gets to the end, you can restart. We have decided to bind the restart button to the key R. So Leon made a new function, which ensures that you can click R and restart at the beginning. But we made a compromise that you can only click it if the player is currently on the floor so you can't spam the button. </p>
@@ -41,6 +44,7 @@
 ![Screenshot 2024-10-29 110915](https://github.com/user-attachments/assets/ba1d2a7b-48b8-4d8e-a047-58b2b1c928a6)
 
 
+<hr>
 
 
 <p>We also made, that the rolling makes the player a little bit faster, but thought that currently the rolling is only a funny optional feature which you don't even have to use. So we inserted some spots in the jump and run which you can only overcome with the rolling. </p>
@@ -54,7 +58,8 @@
  
  ![Bild](https://github.com/user-attachments/assets/295d92bd-842a-43a4-a08b-c58294600cf1)
 
- 
+ <hr>
+
 After the second level was made, we got to a problem. The problem was that the game is just a little bit too difficult to complete both levels in one go without falling down. So we thought about making a little checkpoint at the end of the first level. So you don't have to do both levels in one try, so if you fall down in the second level you can just respawn at the end of the first level. Leon added this new feature with the checkpoint and adjusted the old one. So now if the player gets to the checkpoint a signal gets sent which changes a variable true which ensures that the player gets restarted at the checkpoint if you click the restart button. </p>
 
 ![Screenshot 2024-10-29 142044](https://github.com/user-attachments/assets/15e16116-1ab5-4953-9437-258487bfb02e)
@@ -65,6 +70,7 @@ After the second level was made, we got to a problem. The problem was that the g
 
 
 
+<hr>
 
 <p>Leon also thought about the funny feature to add like gold coins at the end which also got physics which you can just push around. It should simply symbolize the end of the jump and run and that you have won. In the end we added backgroundmusic, which we downloaded from youtube. So at this point the game itself is finished. Leon just had to export it.</p>
 
