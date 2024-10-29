@@ -20,6 +20,10 @@ config/icon="res://icon.svg"
 Global="*res://Global.gd"
 BgMusic="*res://bg_music.tscn"
 
+[display]
+
+window/size/mode=3
+
 [input]
 
 roll={
