@@ -83,6 +83,8 @@ Diego worked mostly on GitHub, but he also did the website to download the game.
 
 ![Screenshot 2024-10-29 084008](https://github.com/user-attachments/assets/ae681040-47d8-4e23-9c51-0398ac33dee1)
 
+<hr>
+
 <p>Programming the Website is very simple. I designed a download button on paint and then I Implemented a link into the pictue so if you click on it dowloads starts the download</p>
 
 ![Screenshot 2024-10-29 105438](https://github.com/user-attachments/assets/28457522-e8a4-442b-9d5e-08a8a6aead41)
