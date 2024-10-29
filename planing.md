@@ -1,6 +1,6 @@
 # Planing: 
 
-<ul><li> The teacher gave us the task, to plan our project, so that there are no problems. We decided to split our time, leon works on the weekend while Diego works during the week. We had to do that so we dont get in trouble, during vacation or other day, where we cant work. We also had to do a task list, every task should show whos going to do it, the estimated time and the actual time. <</li></ul>
+<ul><li> The teacher gave us the task, to plan our project, so that there are no problems. We decided to split our time, leon works on the weekend while Diego works during the week. We had to do that so we dont get in trouble, during vacation or other day, where we cant work. We also had to do a task list, every task should show whos going to do it, the estimated time and the actual time. </li></ul>
 
 <hr>
 
