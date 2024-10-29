@@ -14,11 +14,17 @@ We started the game on many PC's and it worked on everyone's.
 ## TEST02
 All buttons work.
 ## TEST03
+The game is possible, it all depends on the player.
 ## TEST04
+No, we didn't find any.
 ## TEST05
+Yes, you can read the rules.
 ## TEST06
+The game is very responsive, when you click something it reacts very fast.
 ## TEST07
+Yes, at the start and after the checkpoint
 ## TEST08
+The esc button works, if you click it the game closes.
 <hr> 
 
 # Problems
