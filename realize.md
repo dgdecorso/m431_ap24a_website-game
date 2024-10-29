@@ -5,6 +5,8 @@
 
 <p>First he started with inserting the Player, the collision and the animation of the player. After that he made parkour for the first level. For that he inserted the floor parts with the collisions and had to think about a nice, various and not too easy level, then he just needed to place the parts on the right spot and the basic framework of the jump and run was done. </p>
 
+![Screenshot 2024-10-29 094959](https://github.com/user-attachments/assets/57ad4407-a02f-4d6c-88b5-fa39469c3600)
+
 ![Screenshot 2024-10-29 095038](https://github.com/user-attachments/assets/62a7e996-6fbf-4413-8117-d315d763c8ea)
 
 
