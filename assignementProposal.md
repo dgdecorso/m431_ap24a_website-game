@@ -18,6 +18,10 @@ Assignment lead - Diego G. De Corso, Leon Wulff
 <p>Implementor - Diego G. De Corso, Leon Wulff</p>
 <p>User tester - /</p>
 
+## Key Dates
+<p>02.09.2024 - Submit Assigment Brief</p>
+<p>29.10.2024 - Submit Project</p>
+<p>05.11.2024 - Present Projects</p>
 
 ## Assignment Budget
 n/a
@@ -28,7 +32,15 @@ No critical/blocking defects
 Open defects are logged & assigned to a future release
 Sign-off by User tester
 
+## Milestones
+These are our milestones
 
+<p>M01: Have an Idea, of what we want to do.</p> 
+<p>M02: Have a Plan of what the game should look like</p> 
+<p>M03: Having a game with the working Website</p> 
+<p>M04: Launch the website with the game</p> 
+<p>M05: Submit the Assignment</p>
+<p>M06: Present the Assignment</p>
 
 
 
