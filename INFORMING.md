@@ -76,6 +76,7 @@
 <li> Google Docs </li> 
 <li> GitHub </li> 
 <li> Microsoft excel </li>
+<li> uDemy</li>
 </ul>
 
 <hr>
