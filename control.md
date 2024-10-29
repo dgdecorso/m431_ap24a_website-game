@@ -5,7 +5,7 @@
 <hr>
 
 ## Testcase 
-<p> We have done 10 different Test protocols, but they were all different sizes and all with different details. To make it easier for our teacher, we decided to also make a test case where we did a summary of all test protocols.</p>
+<p> We have done 8 different Test protocols,with important things for the game.
 
 ![Screenshot 2024-10-29 103907](https://github.com/user-attachments/assets/cd2e5933-400e-40d9-b078-8548ae709c5f)
 
