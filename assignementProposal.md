@@ -14,9 +14,9 @@ A simple Jump and Run game and a website to download the game.
 <p>Having at least 60% good reviews from the players, before the release</p>
 
 ## Assignment Organisation*
-Assignment lead - Diego G. De Corso, Leon Wulff
+<p>Assignment lead - Diego G. De Corso, Leon Wulff</p>
 <p>Implementor - Diego G. De Corso, Leon Wulff</p>
-<p>User tester - /</p>
+<p>User tester - Leona Istrefi, David Tarlos, Jevgenia Shyvlovich, Ronni Länts</p>
 
 ## Key Dates
 <p>02.09.2024 - Submit Assigment Brief</p>
