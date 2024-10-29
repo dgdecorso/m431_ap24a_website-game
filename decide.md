@@ -6,7 +6,9 @@
 
 ![Screenshot 2024-10-01 162106](https://github.com/user-attachments/assets/ae81f350-22c7-4543-8540-0a5e3c5e5a84)
 
-
+<ul>
+  <li>We decided to do a game and own website for it.</li>
+</ul>
 
 <hr>
 
