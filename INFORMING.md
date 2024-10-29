@@ -5,13 +5,13 @@
 
 ## Collecting Information 
 
-<ul><li> at first we had to find a partner, we wanted to do a project with persons but we decide to do it with two persons because its easier to plan the project. We discussed our ideas and did put them together and we found a project that we both liked, we decided to make a game and a website to download it.</li></ul>
+<ul><li> At first we had to find a partner, we wanted to do a project with three persons but we decide to do it with two persons because its easier to plan the project. We discussed our ideas and did put them together and we found a project that we both liked, we decided to make a game and a website to download it.</li></ul>
 
 <hr>
 
 ## Informing if we can do this project 
 
-<ul><li> We discussed our skills in Programming and we saw the Diego knew a little bit of HTML and Leon had expirience in programming games with godot. We came to the conclusion that Diego would do the Website and Leon is going to do the Game with all the Sprites. </li></ul>
+<ul><li> We discussed our skills in Programming and we saw the Diego knew a little bit of HTML and Leon had expirience in programming games with godot. We came to the conclusion that Diego would do the Website and Leon is going to do the Game with all the Sprites. We researched on the internet and informed ourselves.</li></ul>
 
 <hr>
 
@@ -57,8 +57,7 @@
 
 #### Excel
 <p> In Excel, we did all of our tables. </p>
-<li>"GitHub ist ein Onlinedienst zur Softwareentwicklung und Versionsverwaltung für Softwareprojekte auf Git-Basis." - Wikipedia</li>
-
+<li>"Excel is a spreadsheet software by Microsoft that enables data organization, analysis, and visualization through functions, formulas, and charts." - chatGPT</li>
 #### VS CODE
 <p>To programm the website we used VS code</p>
 <li>"Visual Studio Code combines the simplicity of a source code editor with powerful developer tooling, like IntelliSense code completion and debugging." - VS code</li>
@@ -83,9 +82,10 @@
 
 ## Sources
 https://www.w3schools.com/html/
-
-
-
+https://de.wikipedia.org/wiki/Godot
+https://en.wikipedia.org/wiki/GitHub
+https://code.visualstudio.com
+https://chatgpt.com/
 <hr> 
 
 
