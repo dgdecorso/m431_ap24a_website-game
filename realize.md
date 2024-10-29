@@ -65,8 +65,8 @@ After the second level was made, we got to a problem. The problem was that the g
 ![Screenshot 2024-10-29 142044](https://github.com/user-attachments/assets/15e16116-1ab5-4953-9437-258487bfb02e)
 ![Screenshot 2024-10-29 142104](https://github.com/user-attachments/assets/0d368e64-898a-459d-b822-6833f0a01d4d)
 ![Screenshot 2024-10-29 142127](https://github.com/user-attachments/assets/29abf7c7-585f-4489-977a-4fae095acf2a)
-![Screenshot 2024-10-29 142010](https://github.com/user-attachments/assets/874e4473-c27d-4687-a472-44f102ebb4e9)
 ![Bild](https://github.com/user-attachments/assets/1c82960e-8b07-4951-8c29-6f2852dbb2ad)
+![Screenshot 2024-10-29 142010](https://github.com/user-attachments/assets/874e4473-c27d-4687-a472-44f102ebb4e9)
 
 
 <hr>
