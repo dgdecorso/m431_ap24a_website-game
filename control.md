@@ -9,9 +9,13 @@
 
 ![Screenshot 2024-10-29 103907](https://github.com/user-attachments/assets/cd2e5933-400e-40d9-b078-8548ae709c5f)
 
+
+
 <hr> 
 
+# Problems
 
+In the game itself there weren't any problems. (We didn't find any)
 
 
 
