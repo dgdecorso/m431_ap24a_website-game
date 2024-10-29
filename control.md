@@ -1,6 +1,6 @@
 # Controlling 
 <hr> 
-<p> Now comes the phase where we need to check if our code works. For that, we wrote 10 Testing protocols where we would always check one thing and see if that worked (for example: starting the game.)</p>
+<p> Now comes the phase where we need to check if our code works. For that, we wrote 8 Testing protocols where we would always check one thing and see if that worked (for example: starting the game.)</p>
 
 <hr>
 
