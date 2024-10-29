@@ -20,6 +20,15 @@
 
 <p>He started with adding the keybinds in the settings. For example the Key D is for going right, A is for going left and W for jumping. In the script he started with adding some variables and constants. He started programming the character controls, which ensures that the player can walk, jump and roll. It also ensures that the animations are getting played if the player walks for example and that the player flips if he goes left or right. So at this point we could try the game for the first time out.</p>
 
+![Screenshot 2024-10-29 105638](https://github.com/user-attachments/assets/1b72631b-8f5a-41cc-9e7e-f91d1dac522e)
+
+![Screenshot 2024-10-29 105829](https://github.com/user-attachments/assets/95e33269-e7aa-407e-bd00-72371a5a1dac)
+
+![Screenshot 2024-10-29 105854](https://github.com/user-attachments/assets/0b47b3e6-e116-447d-b115-e1fa436db1e2)
+
+![Screenshot 2024-10-29 105854](https://github.com/user-attachments/assets/f5a48dc5-bc9a-4be7-a665-f7a35d1d347a)
+
+
 <p>We thought about adding a restart button, so if the player falls down or the player gets to the end, you can restart. We have decided to bind the restart button to the key R. So Leon made a new function, which ensures that you can click R and restart at the beginning. But we made a compromise that you can only click it if the player is currently on the floor so you can't spam the button. </p>
 
 <p>We also made, that the rolling makes the player a little bit faster, but thought that currently the rolling is only a funny optional feature which you don't even have to use. So we inserted some spots in the jump and run which you can only overcome with the rolling. </p>
