@@ -15,7 +15,7 @@
 
 <p>At this point we didn't really know what we should add to the game so it is more difficult and a little bit longer. So we decided to add a second for that. We just got another background form the internet and inserted it. Leon made a second level which should be a little bit more difficult. After the second level was made we got to a problem. The problem was that the game is just a little bit too difficult to complete both levels in one go without falling down. So we thought about making a little checkpoint at the end of the first level. So you don't have to do both levels in one try, so if you fall down in the second level you can just respawn at the end of the first level. Leon added this new feature with the checkpoint and adjusted the old one. So now if the player gets to the checkpoint a signal gets sent which changes a variable true which ensures that the player gets restarted at the checkpoint if you click the restart button. </p>
 
-<p>Leon also thought about the funny feature to add like gold coins at the end which also got physics which you can just push around. It should simply symbolize the end of the jump and run and that you have won. In the end we added backgroundmusic, wich we downloaded from youtube. So at this point the game itself is finished. Leon just had to export it.</p>
+<p>Leon also thought about the funny feature to add like gold coins at the end which also got physics which you can just push around. It should simply symbolize the end of the jump and run and that you have won. In the end we added backgroundmusic, which we downloaded from youtube. So at this point the game itself is finished. Leon just had to export it.</p>
  
 # Diego's Part
 
