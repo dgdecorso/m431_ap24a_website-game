@@ -47,7 +47,6 @@ We decided that we do our tasklist on Excel.
 
 <hr> 
 
-## Managing our Time
 
 <p></p>
 
