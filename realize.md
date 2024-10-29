@@ -38,6 +38,8 @@ Diego did worked mostly on GitHub, but he also did the website to download the g
 
 <p>Programming the Website is very simple. I designed a download button on paint and then I Implemented a link into the pictue so if you click on it dowloads starts the download</p>
 
+![Screenshot 2024-10-29 105438](https://github.com/user-attachments/assets/28457522-e8a4-442b-9d5e-08a8a6aead41)
+
 
 
 
