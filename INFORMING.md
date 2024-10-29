@@ -82,10 +82,11 @@
 
 ## Sources
 https://www.w3schools.com/html/
-https://de.wikipedia.org/wiki/Godot
-https://en.wikipedia.org/wiki/GitHub
-https://code.visualstudio.com
-https://chatgpt.com/
+<p></p>
+https://de.wikipedia.org/wiki/Godot<p></p>
+https://en.wikipedia.org/wiki/GitHub<p></p>
+https://code.visualstudio.com<p></p>
+https://chatgpt.com/<p></p>
 <hr> 
 
 
