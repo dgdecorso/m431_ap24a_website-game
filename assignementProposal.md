@@ -8,9 +8,10 @@ A simple Jump and Run game and a website to download the game.
 
 
 ## Assignment Goal(s)*
-Having at least 10 downloads in 1 Month
-<p>Functioning Download Button for everyone</p>
-<p>A Simple but fun game</p>
+
+<p>Having at least 10 downloads in 1 Month, by asking people</p>
+
+<p>Having at least 60% good reviews from the players, before the release</p>
 
 ## Assignment Organisation*
 Assignment lead - Diego G. De Corso, Leon Wulff
