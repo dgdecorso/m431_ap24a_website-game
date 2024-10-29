@@ -26,7 +26,8 @@
 
 ![Screenshot 2024-10-29 105854](https://github.com/user-attachments/assets/0b47b3e6-e116-447d-b115-e1fa436db1e2)
 
-![Screenshot 2024-10-29 105854](https://github.com/user-attachments/assets/f5a48dc5-bc9a-4be7-a665-f7a35d1d347a)
+![Screenshot 2024-10-29 105854](https://github.com/user-attachments/assets/56f0535a-507a-4bd7-a572-43d7fdeb3ed8)
+
 
 
 <p>We thought about adding a restart button, so if the player falls down or the player gets to the end, you can restart. We have decided to bind the restart button to the key R. So Leon made a new function, which ensures that you can click R and restart at the beginning. But we made a compromise that you can only click it if the player is currently on the floor so you can't spam the button. </p>
