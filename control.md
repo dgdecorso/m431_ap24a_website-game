@@ -37,7 +37,8 @@ In the game itself there weren't any problems. (We didn't find any)
 ## Feedback from the users 
 <p> We have asked 5 different people to give us feedback on our project. 
 Here is what they said: 
-![Screenshot 2024-10-29 133917](https://github.com/user-attachments/assets/e9d8419c-3a7a-4137-9b3f-f8baa5180eb7)
+![Screenshot 2024-10-29 133917](https://github.com/user-attachments/assets/6dc41704-e771-4d97-8d1f-aa6dda1c22b9)
+
 
 [back to index](README.md)
 
