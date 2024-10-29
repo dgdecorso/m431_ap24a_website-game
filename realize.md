@@ -58,7 +58,7 @@
 After the second level was made, we got to a problem. The problem was that the game is just a little bit too difficult to complete both levels in one go without falling down. So we thought about making a little checkpoint at the end of the first level. So you don't have to do both levels in one try, so if you fall down in the second level you can just respawn at the end of the first level. Leon added this new feature with the checkpoint and adjusted the old one. So now if the player gets to the checkpoint a signal gets sent which changes a variable true which ensures that the player gets restarted at the checkpoint if you click the restart button. </p>
 
 ![Screenshot 2024-10-29 142044](https://github.com/user-attachments/assets/15e16116-1ab5-4953-9437-258487bfb02e)
-<p></p>
+
 ![Screenshot 2024-10-29 142104](https://github.com/user-attachments/assets/0d368e64-898a-459d-b822-6833f0a01d4d)
 ![Screenshot 2024-10-29 142127](https://github.com/user-attachments/assets/29abf7c7-585f-4489-977a-4fae095acf2a)
 ![Screenshot 2024-10-29 142010](https://github.com/user-attachments/assets/874e4473-c27d-4687-a472-44f102ebb4e9)
