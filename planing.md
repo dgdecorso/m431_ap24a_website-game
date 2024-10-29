@@ -45,12 +45,6 @@ We decided that we do our tasklist on Excel.
 <hr> 
 
 
-<hr> 
-
-
-<p></p>
-
-<hr>
 
 
 <br>
