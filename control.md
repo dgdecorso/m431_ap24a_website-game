@@ -10,21 +10,21 @@
 ![Screenshot 2024-10-29 103907](https://github.com/user-attachments/assets/cd2e5933-400e-40d9-b078-8548ae709c5f)
 
 ## TEST01
-We started the game on many PC's and it worked on everyone's.
+We started the game on many PC's and it worked on everyone's.✔️
 ## TEST02
-All buttons work.
+All buttons work.✔️
 ## TEST03
-The game is possible, it all depends on the player.
+The game is possible, it all depends on the player.✔️
 ## TEST04
-No, we didn't find any.
+No, we didn't find any.✔️
 ## TEST05
-Yes, you can read the rules.
+Yes, you can read the rules.✔️
 ## TEST06
-The game is very responsive, when you click something it reacts very fast.
+The game is very responsive, when you click something it reacts very fast.✔️
 ## TEST07
-Yes, at the start and after the checkpoint
+Yes, at the start and after the checkpoint.✔️
 ## TEST08
-The esc button works, if you click it the game closes.
+The esc button works, if you click it the game closes.✔️
 <hr> 
 
 # Problems
