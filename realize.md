@@ -40,6 +40,7 @@
 ![Screenshot 2024-10-29 110900](https://github.com/user-attachments/assets/679e8f69-c1c1-4c7b-ba50-13ae047672b0)
 ![Screenshot 2024-10-29 110915](https://github.com/user-attachments/assets/ba1d2a7b-48b8-4d8e-a047-58b2b1c928a6)
 
+![Screenshot 2024-10-29 110806](https://github.com/user-attachments/assets/921fa3a5-948f-4c5a-8caa-5698436972e5)
 
 
 <p>We also made, that the rolling makes the player a little bit faster, but thought that currently the rolling is only a funny optional feature which you don't even have to use. So we inserted some spots in the jump and run which you can only overcome with the rolling. </p>
