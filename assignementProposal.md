@@ -27,10 +27,6 @@ A simple Jump and Run game and a website to download the game.
 n/a
 
 
-## Acceptance Criteria
-No critical/blocking defects
-Open defects are logged & assigned to a future release
-Sign-off by User tester
 
 ## Milestones
 These are our milestones
