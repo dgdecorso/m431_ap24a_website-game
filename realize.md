@@ -5,6 +5,9 @@
 
 <p>First he started with inserting the Player, the collision and the animation of the player. After that he made parkour for the first level. For that he inserted the floor parts with the collisions and had to think about a nice, various and not too easy level, then he just needed to place the parts on the right spot and the basic framework of the jump and run was done. </p>
 
+![Screenshot 2024-10-29 095038](https://github.com/user-attachments/assets/62a7e996-6fbf-4413-8117-d315d763c8ea)
+
+
 <p>When this step was done Leon inserted a background which we got from the internet and also added some borders so the player can't fall down later. He also made something similar to a defeat box, where the player gets when he falls down. At that point the designing and inserting part was for the first done. Leon could now start with the programming part. </p>
 
 <p>He started with adding the keybinds in the settings. For example the Key D is for going right, A is for going left and W for jumping. In the script he started with adding some variables and constants. He started programming the character controller, which ensures that the player can walk, jump and roll. It also ensures that the animations are getting played if the player walks for example and that the player flips if he goes left or right. So at this point we could try the game for the first time out.</p>
