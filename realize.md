@@ -12,6 +12,12 @@
 
 <p>When this step was done Leon inserted a background which we got from the internet and also added some borders so the player can't fall down later. He also made something similar to a defeat box, where the player gets when he falls down. At that point the designing and inserting part was for the first done. Leon could now start with the programming part. </p>
 
+![il_570xN 4974376048_f3z0](https://github.com/user-attachments/assets/65abcb40-ffac-4f5e-b994-a0eee9644b1e)
+
+
+![Screenshot 2024-10-29 095701](https://github.com/user-attachments/assets/f787435a-b99e-49cd-982f-0f118d495748)
+
+
 <p>He started with adding the keybinds in the settings. For example the Key D is for going right, A is for going left and W for jumping. In the script he started with adding some variables and constants. He started programming the character controller, which ensures that the player can walk, jump and roll. It also ensures that the animations are getting played if the player walks for example and that the player flips if he goes left or right. So at this point we could try the game for the first time out.</p>
 
 <p>We thought about adding a restart button, so if the player falls down or the player gets to the end, you can restart. We have decided to bind the restart button to the key R. So Leon made a new function, which ensures that you can click R and restart at the beginning. But we made a compromise that you can only click it if the player is currently on the floor so you can't spam the button. </p>
