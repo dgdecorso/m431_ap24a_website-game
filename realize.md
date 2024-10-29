@@ -67,7 +67,13 @@ After the second level was made, we got to a problem. The problem was that the g
 
 
 <p>Leon also thought about the funny feature to add like gold coins at the end which also got physics which you can just push around. It should simply symbolize the end of the jump and run and that you have won. In the end we added backgroundmusic, which we downloaded from youtube. So at this point the game itself is finished. Leon just had to export it.</p>
- 
+
+![Screenshot 2024-10-29 142352](https://github.com/user-attachments/assets/7ef3e45a-11f5-4c58-952e-e749dd9b936e)
+
+![Screenshot 2024-10-29 142320](https://github.com/user-attachments/assets/7d3d4edd-95aa-4c1c-abb3-c36d7b8c3b62)
+
+ ![Screenshot 2024-10-29 142300](https://github.com/user-attachments/assets/0365307d-c0c6-45a9-8f9e-cd89eda9f840)
+
 # Diego's Part
 
 Diego worked mostly on GitHub, but he also did the website to download the game. The whole website and GitHub project was made by Diego.
