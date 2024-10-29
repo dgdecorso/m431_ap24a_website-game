@@ -7,9 +7,8 @@
 
 <ul> 
 <li> We are happy that we did it in time and we could complete all tasks.</li>
-<li> We are happy that we didn't have any major problems. </li>
+<li> We relieved that we didn't have any major problems. </li>
 <li> We're glad that we could split the work so we didnt have any problems with organizing our work.</li>
-<li>  </li>
 </ul>
 
 <hr> 
@@ -26,7 +25,7 @@
 <ul>
 <li>We didn't have any big problems. The only "Problem" that we had was the start, at first we had problems to understand the Progress itself. We didn't understand GitHub too. But after some time it wasn't a problem anymore.</li>
 
-<li>We had to rush the last part a little bit, because if we wouldn't have rushed it we w </li>
+<li>We had to rush the last part a little bit, because if we wouldn't have rushed it we wouldnt't have done it in time.</li>
 </ul>
 
 <hr>
