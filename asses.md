@@ -35,7 +35,8 @@
 <p> We have asked 5 different people to give us feedback on our project. 
 Here is what they said: 
 
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/7c7b39e2-cacd-4d01-9766-b60a364a01f6)
+![Screenshot 2024-10-29 133917](https://github.com/user-attachments/assets/e9d8419c-3a7a-4137-9b3f-f8baa5180eb7)
+
 
 </p>
 
