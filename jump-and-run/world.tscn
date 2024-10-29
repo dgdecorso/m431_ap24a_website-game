@@ -90,14 +90,15 @@ texture = ExtResource("2_2w4g1")
 
 [node name="TextEdit" type="TextEdit" parent="Background"]
 offset_left = -173.0
-offset_top = 471.0
+offset_top = 449.0
 offset_bottom = 646.0
 text = "Controlls:
 Go Left: A
 Go Right: D
 Jump: W
 Rolling: SPACE + A/D
-Restart: R"
+Restart: R
+Exit Game: ESC"
 
 [node name="Screenshot2024-10-01162325" type="Sprite2D" parent="Background"]
 position = Vector2(2577.87, 290.75)

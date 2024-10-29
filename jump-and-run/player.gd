@@ -55,6 +55,9 @@ func _physics_process(delta):
 	if Input.is_action_just_pressed("roll"):
 		start_rolling()
 	
+	if Input.is_action_just_pressed("Exit"):
+		get_tree().quit()
+	
 	align_character_direction()
 
 func align_character_direction():
