@@ -10,8 +10,9 @@
 ![Screenshot 2024-10-29 103907](https://github.com/user-attachments/assets/cd2e5933-400e-40d9-b078-8548ae709c5f)
 
 ## TEST01
-We started the game on many PC's and it worked on everyone's
+We started the game on many PC's and it worked on everyone's.
 ## TEST02
+All buttons work.
 ## TEST03
 ## TEST04
 ## TEST05
