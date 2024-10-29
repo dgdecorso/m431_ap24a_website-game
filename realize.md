@@ -26,7 +26,8 @@
 
 ![Screenshot 2024-10-29 105854](https://github.com/user-attachments/assets/0b47b3e6-e116-447d-b115-e1fa436db1e2)
 
-![code](https://github.com/user-attachments/assets/6a910418-e76e-42fe-beea-7737550cc98c)
+![Screenshot 2024-10-29 105910 (2)](https://github.com/user-attachments/assets/e13a7579-5b7e-4eff-a900-4cfd1b053a7f)
+
 
 
 
