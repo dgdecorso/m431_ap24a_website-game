@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/46dd5942-125c-4072-9884-9cfd2506474d
 [REALIZE](https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/realize.md)</P>
 [CONTROL](https://github.com/dgdecorso/m431_ap24a_website-game/edit/main/control.md)</P>
 [ASSES](https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/asses.md)</P>
-[Power Point](https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/PowerPoint.md)
+[POWER POINT](https://github.com/dgdecorso/m431_ap24a_website-game/blob/main/PowerPoint.md)
 
 <br> 
 
